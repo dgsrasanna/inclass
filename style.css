@@ -1,0 +1,30 @@
+.box{
+    padding: 10px;
+    border: 5px;
+    border-style:solid;
+    text-align: center;
+    color: rgb(51, 63, 154);
+    background-color: rgba(0, 195, 255, 0.64);
+
+}
+
+#num1{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(120, 173, 179, 0.585);
+
+
+}
+
+.btn{
+    color: brown;
+    border-radius: 5px;
+    border-style: solid;
+    background-color: rgb(30, 129, 199);
+
+}
+
+#result{
+    font-size: h1;
+
+}
